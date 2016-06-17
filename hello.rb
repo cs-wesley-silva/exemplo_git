@@ -1,2 +1,2 @@
-nome="Wesley"
+nome = 'Wesley'
 puts("olá, #{nome}")
