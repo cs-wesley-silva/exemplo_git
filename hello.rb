@@ -1,2 +1,2 @@
 nome="Wesley"
-pust("olá, #{nome}")
+puts("olá, #{nome}")
